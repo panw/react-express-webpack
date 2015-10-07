@@ -1,0 +1,14 @@
+{
+  "name": "react-express",
+  "version": "0.0.1",
+  "description": "React Express App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pan W",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
